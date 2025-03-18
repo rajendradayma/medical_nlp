@@ -11,7 +11,7 @@ This project processes medical text using a Natural Language Processing (NLP) mo
 
 ### Run on Google Colab
 
-1. Open Google Colab: [Google Colab](https://colab.research.google.com/)
+1. Open Google Colab: [Google Colab](https://colab.research.google.com/drive/1uOVCcOMqnBURJnv6sPcc9l9HKg89iscW#scrollTo=QTT0SHe9Svq6)
 2. Upload your notebook (`.ipynb`) file or create a new one.
 3. Install required dependencies by running:
 
